@@ -18,7 +18,7 @@ RTO is the all-in-one app to study for your driver's license exam. Access a comp
 
 5. Mock Test: This feature should simulate the actual test environment. You can set a timer, randomize questions from the question bank, and provide immediate feedback after the test is completed.
 
-![image](https://github.com/anish943/flutter-rto/assets/102370296/01f92de1-6b1d-4030-914c-ec8f556288f2)
+![image](https://github.com/anish943/flutter-rto/assets/102370296/1f2ae031-fea4-446e-afb2-da66afc4721f)
 
 6. RTO Office: This section could provide information about nearby RTO offices, including their addresses, contact details, working hours, services offered, etc. You could also include FAQs related to RTO procedures.
 
